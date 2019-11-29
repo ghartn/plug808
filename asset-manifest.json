@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.4e85b3f0.chunk.css",
-    "main.js": "/static/js/main.68cf7ef0.chunk.js",
-    "main.js.map": "/static/js/main.68cf7ef0.chunk.js.map",
+    "main.js": "/static/js/main.0a112e72.chunk.js",
+    "main.js.map": "/static/js/main.0a112e72.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e81a2c6a.js",
     "runtime-main.js.map": "/static/js/runtime-main.e81a2c6a.js.map",
     "static/js/2.9768161a.chunk.js": "/static/js/2.9768161a.chunk.js",
     "static/js/2.9768161a.chunk.js.map": "/static/js/2.9768161a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9310fc41c0c89ff47e7d856c8d4ea843.js": "/precache-manifest.9310fc41c0c89ff47e7d856c8d4ea843.js",
+    "precache-manifest.28f5f5cd0869a36df6871d394b01a30c.js": "/precache-manifest.28f5f5cd0869a36df6871d394b01a30c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4e85b3f0.chunk.css.map": "/static/css/main.4e85b3f0.chunk.css.map",
     "static/media/plug808.mp3": "/static/media/plug808.e1eda531.mp3"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e81a2c6a.js",
     "static/js/2.9768161a.chunk.js",
     "static/css/main.4e85b3f0.chunk.css",
-    "static/js/main.68cf7ef0.chunk.js"
+    "static/js/main.0a112e72.chunk.js"
   ]
 }
