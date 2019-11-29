@@ -47,7 +47,7 @@ export default class HomePage extends Component {
 				className="flex flex-1 min-h-full w-full justify-center items-center"
 				onClick={this._plug808}
 			>
-				<h1 className="pointer-events-none font-bold text-2xl">plug808</h1>
+				<h1 className="pointer-events-none font-bold text-2xl">plug808.mp3</h1>
 			</div>
 		);
 	}
